@@ -1,3 +1,2 @@
 # TestProject
-Test Project for Bamboo integration
-Should execute hello World
+Test Project for Bamboo integration, let's see if this commit prints a Hello World message
